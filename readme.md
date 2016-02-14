@@ -8,9 +8,9 @@ Made with CadSoft Eagle
 
 ###Image
 
-![Board](Images/keyboard02.brd.png)
+![Board](Images/Keyboard02.brd.png)
 
-[Schematic](Images/keyboard02.sch.png)
+[Schematic](Images/Keyboard02.sch.png)
 
 
 ###License
