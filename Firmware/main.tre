@@ -1,0 +1,25 @@
+ÀÄmain
+   ÃÄMAIN  0/105  Ram=1
+   ³  ÃÄ??0??
+   ³  ÃÄ@delay_ms1  0/20  Ram=1
+   ³  ÃÄpop  0/21  Ram=1
+   ³  ÃÄdoled  0/12  Ram=2
+   ³  ÃÄdorotary  0/85  Ram=5
+   ³  ³  ÃÄpush  0/22  Ram=2
+   ³  ³  ÀÄpush  0/22  Ram=2
+   ³  ÃÄdorotary  0/85  Ram=5
+   ³  ³  ÃÄpush  0/22  Ram=2
+   ³  ³  ÀÄpush  0/22  Ram=2
+   ³  ÃÄdorotary  0/85  Ram=5
+   ³  ³  ÃÄpush  0/22  Ram=2
+   ³  ³  ÀÄpush  0/22  Ram=2
+   ³  ÃÄdorotarypush  0/59  Ram=4
+   ³  ³  ÃÄpush  0/22  Ram=2
+   ³  ³  ÀÄpush  0/22  Ram=2
+   ³  ÀÄdokeyboard  0/181  Ram=12
+   ³     ÃÄ@const334  0/20  Ram=0
+   ³     ÃÄpush  0/22  Ram=2
+   ³     ÃÄ@const334  0/20  Ram=0
+   ³     ÀÄpush  0/22  Ram=2
+   ÃÄtimeproc  0/29  Ram=4
+   ÀÄssp_isr  0/62  Ram=2
